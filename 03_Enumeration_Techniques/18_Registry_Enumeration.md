@@ -1,5 +1,28 @@
 [Prev: 17_File_Share_Enumeration.md](./17_File_Share_Enumeration.md) | [Up: Index](./00_Enumeration_Index.md) | [Hub](./00_Methodology_Hub.md) | [Next: 19_PowerShell_Remoting_Enumeration.md](./19_PowerShell_Remoting_Enumeration.md)
 
+---
+
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **🔧 System Configuration Components**
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: User registry hives and profile settings
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: DC registry configurations and settings
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: Registry object attributes and properties
+
+### **🏗️ Infrastructure Components**
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain registry settings and configurations
+- **[Sites and Subnets](../02_Active_Directory_Components/06_Sites_and_Subnets.md)**: Network-related registry settings
+- **[Replication Service](../02_Active_Directory_Components/15_Replication_Service.md)**: Registry replication settings
+
+### **🔐 Security and Policy Components**
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: Registry-based policy settings
+- **[Kerberos](../02_Active_Directory_Components/16_Kerberos.md)**: Kerberos registry configurations
+- **[FSMO Roles](../02_Active_Directory_Components/08_FSMO_Roles.md)**: Role-specific registry settings
+
+---
+
+## 🚀 **REGISTRY ENUMERATION OVERVIEW**
+
 # Registry Enumeration
 
 ## Overview

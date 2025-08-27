@@ -1,6 +1,27 @@
-[Prev: 20_WMI_Enumeration.md](./20_WMI_Enumeration.md) | [Up: Index](./00_Enumeration_Index.md) | [Hub](./00_Methodology_Hub.md) | [Next: 22_Kerberos_Master_Index.md](./22_Kerberos_Master_Index.md)
+[🔄 Back to Master Index](./00_Enumeration_Index.md) | [🔍 Previous: WMI Enumeration](./20_WMI_Enumeration.md) | [Next: Kerberos Master Index](./22_Kerberos_Master_Index.md)
 
-# Time-Based Enumeration
+---
+
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **⏰ Time-Based Components**
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: User login patterns and time-based access
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: DC time synchronization and patterns
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: Time-based object attributes and properties
+
+### **🏗️ Infrastructure Components**
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain time policies and configurations
+- **[Sites and Subnets](../02_Active_Directory_Components/06_Sites_and_Subnets.md)**: Time zone configurations and patterns
+- **[Replication Service](../02_Active_Directory_Components/15_Replication_Service.md)**: Time-based replication schedules
+
+### **🔐 Security and Policy Components**
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: Time-based security policies
+- **[Kerberos](../02_Active_Directory_Components/16_Kerberos.md)**: Ticket timing and expiration patterns
+- **[FSMO Roles](../02_Active_Directory_Components/08_FSMO_Roles.md)**: Role-specific time configurations
+
+---
+
+## 🚀 **TIME-BASED ENUMERATION OVERVIEW**
 
 ## At‑a‑Glance
 

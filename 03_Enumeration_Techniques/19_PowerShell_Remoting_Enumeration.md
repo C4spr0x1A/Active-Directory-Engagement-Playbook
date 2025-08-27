@@ -1,4 +1,27 @@
-[Prev: 18_Registry_Enumeration.md](./18_Registry_Enumeration.md) | [Up: Index](./00_Enumeration_Index.md) | [Hub](./00_Methodology_Hub.md) | [Next: 20_WMI_Enumeration.md](./20_WMI_Enumeration.md)
+[🔄 Back to Master Index](./00_Enumeration_Index.md) | [🔧 Previous: Registry Enumeration](./18_Registry_Enumeration.md) | [Next: WMI Enumeration](./20_WMI_Enumeration.md)
+
+---
+
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **⚡ PowerShell Management Components**
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: PowerShell remoting users and permissions
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: DC PowerShell remoting configurations
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: PowerShell object attributes and properties
+
+### **🏗️ Infrastructure Components**
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain PowerShell remoting policies
+- **[Sites and Subnets](../02_Active_Directory_Components/06_Sites_and_Subnets.md)**: Network topology for remoting access
+- **[Replication Service](../02_Active_Directory_Components/15_Replication_Service.md)**: PowerShell configuration replication
+
+### **🔐 Security and Policy Components**
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: PowerShell execution policies and restrictions
+- **[Kerberos](../02_Active_Directory_Components/16_Kerberos.md)**: PowerShell remoting authentication
+- **[FSMO Roles](../02_Active_Directory_Components/08_FSMO_Roles.md)**: Role-specific PowerShell configurations
+
+---
+
+## 🚀 **POWERSHELL REMOTING ENUMERATION OVERVIEW**
 
 # PowerShell Remoting Enumeration
 
