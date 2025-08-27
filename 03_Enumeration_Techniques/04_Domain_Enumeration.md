@@ -8,6 +8,25 @@
 
 ---
 
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **🏗️ Core Domain Components**
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Primary target for domain-level enumeration and structure discovery
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: Infrastructure servers discovered and enumerated
+- **[Forest](../02_Active_Directory_Components/04_Forest.md)**: Forest context and multi-domain relationships
+
+### **🏢 Organizational Components**
+- **[Organizational Units](../02_Active_Directory_Components/05_Organizational_Unit.md)**: OU structure and hierarchy discovered through enumeration
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: Policies linked to domains and OUs
+- **[Sites and Subnets](../02_Active_Directory_Components/06_Sites_and_Subnets.md)**: Physical network topology and site information
+
+### **🔐 Security and Trust Components**
+- **[Trusts](../02_Active_Directory_Components/07_Trusts.md)**: Cross-domain trust relationships discovered
+- **[FSMO Roles](../02_Active_Directory_Components/08_FSMO_Roles.md)**: Critical operations roles and their placement
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: Object structure and attribute definitions
+
+---
+
 ## 🚀 **DOMAIN STRUCTURE DISCOVERY OVERVIEW**
 
 ### **🎭 What This Foundation Provides**

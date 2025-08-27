@@ -1,6 +1,27 @@
-[Prev: 06_Group_Enumeration.md](./06_Group_Enumeration.md) | [Up: Index](./00_Enumeration_Index.md) | [Hub](./00_Methodology_Hub.md) | [Next: 08_GPO_Enumeration.md](./08_GPO_Enumeration.md)
+[🔄 Back to Master Index](./00_Enumeration_Index.md) | [🔐 Previous: Group Enumeration](./06_Group_Enumeration.md) | [Next: GPO Enumeration](./08_GPO_Enumeration.md)
 
-# Computer Enumeration
+---
+
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **💻 Computer Management Components**
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: Computer accounts and machine authentication
+- **[Organizational Units](../02_Active_Directory_Components/05_Organizational_Unit.md)**: OU structure containing computer objects
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: Computer object attributes and properties
+
+### **🏗️ Infrastructure Components**
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: Servers hosting computer account information
+- **[Sites and Subnets](../02_Active_Directory_Components/06_Sites_and_Subnets.md)**: Physical network topology and computer placement
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain boundaries containing computers
+
+### **🔐 Security and Policy Components**
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: Policies applied to computer objects
+- **[Kerberos](../02_Active_Directory_Components/16_Kerberos.md)**: Machine authentication and service accounts
+- **[Replication Service](../02_Active_Directory_Components/15_Replication_Service.md)**: Computer account synchronization
+
+---
+
+## 🚀 **COMPUTER ENUMERATION OVERVIEW**
 
 > **⚠️ CRITICAL TOOL REQUIREMENT**: **Invisi-Shell** is mandatory for production environments to ensure stealth operations and avoid detection. See [Tool Arsenal](./01_Tool_Setup_Loading.md#-invisi-shell-complete-setup) for setup instructions.
 

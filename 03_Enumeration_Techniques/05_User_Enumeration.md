@@ -1,6 +1,27 @@
 [Prev: 04_Domain_Enumeration.md](./04_Domain_Enumeration.md) | [Up: Index](./00_Enumeration_Index.md) | [Hub](./00_Methodology_Hub.md) | [Next: 06_Group_Enumeration.md](./06_Group_Enumeration.md)
 
-# 🎯 **USER ENUMERATION MASTERY**
+---
+
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **👤 User Account Components**
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: Primary target for user enumeration and account analysis
+- **[Organizational Units](../02_Active_Directory_Components/05_Organizational_Unit.md)**: OU structure containing user objects
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: User object attributes and properties
+
+### **🔐 Authentication and Security Components**
+- **[Kerberos](../02_Active_Directory_Components/16_Kerberos.md)**: Authentication protocol for user accounts
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: Servers hosting user account information
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: Policies applied to user accounts
+
+### **🏗️ Infrastructure Components**
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain boundaries containing user accounts
+- **[Replication Service](../02_Active_Directory_Components/15_Replication_Service.md)**: User account synchronization across DCs
+- **[Global Catalog](../02_Active_Directory_Components/12_Global_Catalog.md)**: Forest-wide user account searches
+
+---
+
+## 🚀 **USER ENUMERATION OVERVIEW**
 
 > **🎯 PURPOSE**: This is your **user discovery foundation** for Active Directory enumeration. Every user-based attack path starts here - discovering user accounts, mapping privileges, identifying service accounts, and planning strategic pivots for privilege escalation and lateral movement.
 

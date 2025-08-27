@@ -10,6 +10,27 @@
 
 ---
 
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **🏗️ Core Infrastructure Components**
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: Primary targets for SOAPHound data collection
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain boundaries and administrative units
+- **[Forest](../02_Active_Directory_Components/04_Forest.md)**: Forest-wide attack paths and trust relationships
+
+### **👥 Identity and Access Components**
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: User objects and their relationships
+- **[Organizational Units](../02_Active_Directory_Components/05_Organizational_Unit.md)**: OU structure and delegation
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: Object relationships and attributes
+
+### **🔐 Security and Trust Components**
+- **[Trusts](../02_Active_Directory_Components/07_Trusts.md)**: Cross-domain attack paths and trust abuse
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: Policy-based attack vectors
+- **[FSMO Roles](../02_Active_Directory_Components/08_FSMO_Roles.md)**: Critical infrastructure targets
+
+---
+
+## 🚀 **SOAPHOUND ENUMERATION OVERVIEW**
+
 ## 📋 **QUICK START SOAPHOUND DISCOVERY**
 
 | **Phase** | **Tool** | **Command** | **Purpose** | **OPSEC Level** |

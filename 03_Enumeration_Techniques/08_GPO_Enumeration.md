@@ -1,6 +1,27 @@
-[Prev: 07_Computer_Enumeration.md](./07_Computer_Enumeration.md) | [Up: Index](./00_Enumeration_Index.md) | [Hub](./00_Methodology_Hub.md) | [Next: 09_ACL_Enumeration.md](./09_ACL_Enumeration.md)
+[🔄 Back to Master Index](./00_Enumeration_Index.md) | [💻 Previous: Computer Enumeration](./07_Computer_Enumeration.md) | [Next: ACL Enumeration](./09_ACL_Enumeration.md)
 
-# GPO Enumeration
+---
+
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **📋 Policy Management Components**
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: Primary target for GPO enumeration and analysis
+- **[Organizational Units](../02_Active_Directory_Components/05_Organizational_Unit.md)**: OUs where GPOs are linked and applied
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain-level GPOs and inheritance
+
+### **🏗️ Infrastructure Components**
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: Servers hosting GPO information and SYSVOL
+- **[Sites and Subnets](../02_Active_Directory_Components/06_Sites_and_Subnets.md)**: Site-linked GPOs and network topology
+- **[Replication Service](../02_Active_Directory_Components/15_Replication_Service.md)**: GPO replication and synchronization
+
+### **🔐 Security and Access Components**
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: Users and groups affected by GPOs
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: GPO object structure and attributes
+- **[FSMO Roles](../02_Active_Directory_Components/08_FSMO_Roles.md)**: Infrastructure master role for GPO operations
+
+---
+
+## 🚀 **GPO ENUMERATION OVERVIEW**
 
 > **⚠️ CRITICAL TOOL REQUIREMENT**: **Invisi-Shell** is mandatory for production environments to ensure stealth operations and avoid detection. See [Tool Arsenal](./01_Tool_Setup_Loading.md#-invisi-shell-complete-setup) for setup instructions.
 

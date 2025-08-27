@@ -6,6 +6,25 @@
 
 ---
 
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **🏗️ Infrastructure Discovery Targets**
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: Primary targets for network discovery and service enumeration
+- **[Sites and Subnets](../02_Active_Directory_Components/06_Sites_and_Subnets.md)**: Network topology and physical location mapping
+- **[LDAP and Ports](../02_Active_Directory_Components/13_LDAP_and_Ports.md)**: Communication protocols and port configurations
+
+### **🌐 Architecture Understanding**
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Security boundaries and administrative units discovered through network mapping
+- **[Forest](../02_Active_Directory_Components/04_Forest.md)**: Multi-domain architecture revealed through network topology
+- **[Replication Service](../02_Active_Directory_Components/15_Replication_Service.md)**: Network traffic patterns and synchronization paths
+
+### **🔐 Security and Policy Discovery**
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: Network security policies and restrictions
+- **[Trusts](../02_Active_Directory_Components/07_Trusts.md)**: Cross-domain network relationships
+- **[FSMO Roles](../02_Active_Directory_Components/08_FSMO_Roles.md)**: Critical infrastructure placement
+
+---
+
 ## 🚀 **NETWORK DISCOVERY OVERVIEW**
 
 ### **🎭 What This Foundation Provides**

@@ -1,6 +1,27 @@
-[Prev: 08_GPO_Enumeration.md](./08_GPO_Enumeration.md) | [Up: Index](./00_Enumeration_Index.md) | [Hub](./00_Methodology_Hub.md) | [Next: 10_BloodHound_Enumeration.md](./10_BloodHound_Enumeration.md)
+[🔄 Back to Master Index](./00_Enumeration_Index.md) | [📋 Previous: GPO Enumeration](./08_GPO_Enumeration.md) | [Next: BloodHound Enumeration](./10_BloodHound_Enumeration.md)
 
-# ACL Enumeration
+---
+
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **🔐 Access Control Components**
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: Security principals with ACL permissions
+- **[Organizational Units](../02_Active_Directory_Components/05_Organizational_Unit.md)**: OUs with delegated permissions and ACLs
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: ACL object structure and security descriptors
+
+### **🏗️ Infrastructure Components**
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: Servers hosting ACL information
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain boundaries and ACL inheritance
+- **[Replication Service](../02_Active_Directory_Components/15_Replication_Service.md)**: ACL replication and synchronization
+
+### **🔐 Security and Trust Components**
+- **[Trusts](../02_Active_Directory_Components/07_Trusts.md)**: Cross-domain ACL access and permissions
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: Security policies affecting ACLs
+- **[FSMO Roles](../02_Active_Directory_Components/08_FSMO_Roles.md)**: Infrastructure master for ACL operations
+
+---
+
+## 🚀 **ACL ENUMERATION OVERVIEW**
 
 > **⚠️ CRITICAL TOOL REQUIREMENT**: **Invisi-Shell** is mandatory for production environments to ensure stealth operations and avoid detection. See [Tool Arsenal](./01_Tool_Setup_Loading.md#-invisi-shell-complete-setup) for setup instructions.
 

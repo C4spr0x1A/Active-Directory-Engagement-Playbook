@@ -1,6 +1,27 @@
-[Prev: 05_User_Enumeration.md](./05_User_Enumeration.md) | [Up: Index](./00_Enumeration_Index.md) | [Hub](./00_Methodology_Hub.md) | [Next: 07_Computer_Enumeration.md](./07_Computer_Enumeration.md)
+[🔄 Back to Master Index](./00_Enumeration_Index.md) | [👤 Previous: User Enumeration](./05_User_Enumeration.md) | [Next: Computer Enumeration](./07_Computer_Enumeration.md)
 
-# Group Enumeration
+---
+
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **🔐 Group Management Components**
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: Group members and their relationships
+- **[Organizational Units](../02_Active_Directory_Components/05_Organizational_Unit.md)**: OU structure containing group objects
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: Group object attributes and properties
+
+### **🏗️ Security and Access Components**
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: Policies applied to group members
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: Servers hosting group information
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain boundaries containing groups
+
+### **🔐 Authentication and Trust Components**
+- **[Kerberos](../02_Active_Directory_Components/16_Kerberos.md)**: Group-based authentication and authorization
+- **[Trusts](../02_Active_Directory_Components/07_Trusts.md)**: Cross-domain group access
+- **[Global Catalog](../02_Active_Directory_Components/12_Global_Catalog.md)**: Forest-wide group searches
+
+---
+
+## 🚀 **GROUP ENUMERATION OVERVIEW**
 
 > **⚠️ CRITICAL TOOL REQUIREMENT**: **Invisi-Shell** is mandatory for production environments to ensure stealth operations and avoid detection. See [Tool Arsenal](./01_Tool_Setup_Loading.md#-invisi-shell-complete-setup) for setup instructions.
 

@@ -6,6 +6,25 @@
 
 ---
 
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **🌐 DNS Infrastructure Components**
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: Discovered through SRV records and serve as DNS servers
+- **[Global Catalog](../02_Active_Directory_Components/12_Global_Catalog.md)**: Located via DNS SRV records for forest-wide searches
+- **[LDAP and Ports](../02_Active_Directory_Components/13_LDAP_and_Ports.md)**: Service locations revealed through DNS enumeration
+
+### **🏗️ Domain Architecture Components**
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: DNS zones and domain boundaries discovered through enumeration
+- **[Forest](../02_Active_Directory_Components/04_Forest.md)**: Multi-domain DNS structure and trust relationships
+- **[Sites and Subnets](../02_Active_Directory_Components/06_Sites_and_Subnets.md)**: Network topology revealed through DNS zone information
+
+### **🔐 Authentication and Service Components**
+- **[Kerberos](../02_Active_Directory_Components/16_Kerberos.md)**: KDC service locations discovered via DNS SRV records
+- **[Replication Service](../02_Active_Directory_Components/15_Replication_Service.md)**: Replication partners located through DNS
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: Schema master location discovered via DNS
+
+---
+
 ## 🚀 **DNS SERVICE DISCOVERY OVERVIEW**
 
 ### **🎭 What This Foundation Provides**

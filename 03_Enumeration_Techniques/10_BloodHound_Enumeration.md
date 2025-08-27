@@ -1,6 +1,27 @@
-[Prev: 09_ACL_Enumeration.md](./09_ACL_Enumeration.md) | [Up: Index](./00_Enumeration_Index.md) | [Hub](./00_Methodology_Hub.md) | [Next: 11_SOAPHound_Enumeration.md](./11_SOAPHound_Enumeration.md)
+[🔄 Back to Master Index](./00_Enumeration_Index.md) | [🔐 Previous: ACL Enumeration](./09_ACL_Enumeration.md) | [Next: SOAPHound Enumeration](./11_SOAPHound_Enumeration.md)
 
-# BloodHound Enumeration
+---
+
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **🏗️ Core Infrastructure Components**
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: Primary targets for BloodHound data collection
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain boundaries and administrative units
+- **[Forest](../02_Active_Directory_Components/04_Forest.md)**: Forest-wide attack paths and trust relationships
+
+### **👥 Identity and Access Components**
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: User objects and their relationships
+- **[Organizational Units](../02_Active_Directory_Components/05_Organizational_Unit.md)**: OU structure and delegation
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: Object relationships and attributes
+
+### **🔐 Security and Trust Components**
+- **[Trusts](../02_Active_Directory_Components/07_Trusts.md)**: Cross-domain attack paths and trust abuse
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: Policy-based attack vectors
+- **[FSMO Roles](../02_Active_Directory_Components/08_FSMO_Roles.md)**: Critical infrastructure targets
+
+---
+
+## 🚀 **BLOODHOUND ENUMERATION OVERVIEW**
 
 > **⚠️ CRITICAL TOOL REQUIREMENT**: **Invisi-Shell** is mandatory for production environments to ensure stealth operations and avoid detection. See [Tool Arsenal](./01_Tool_Setup_Loading.md#-invisi-shell-complete-setup) for setup instructions.
 
