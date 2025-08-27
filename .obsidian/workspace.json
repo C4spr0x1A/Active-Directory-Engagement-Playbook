@@ -181,9 +181,9 @@
   },
   "active": "f56a7938f92d3615",
   "lastOpenFiles": [
-    "03_Enumeration_Techniques/02_Network_Enumeration.md",
-    "03_Enumeration_Techniques/04_Domain_Enumeration.md",
     "03_Enumeration_Techniques/05_User_Enumeration.md",
+    "03_Enumeration_Techniques/04_Domain_Enumeration.md",
+    "03_Enumeration_Techniques/02_Network_Enumeration.md",
     "00_MASTER_INDEX.md",
     "scripts/markdown_cleanup.py",
     "03_Enumeration_Techniques/sedCy5AFr",
