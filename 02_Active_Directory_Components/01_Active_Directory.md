@@ -3,14 +3,14 @@
 ## 🎯 Overview
 Active Directory is a directory service used to manage Windows networks. It serves as the foundation for centralized network management and security in Windows environments. This component provides the architectural foundation upon which all other Active Directory components are built.
 
-**Related Topics**: [AD Components Index](./00_AD_Components_Index.md) | [Domain Controllers](./02_Domain_Controllers.md) | [Domain](./03_Domain.md) | [Forest](./04_Forest.md) | **Domain Enumeration (Coming Soon)**
+**Related Topics**: [AD Components Index](./00_AD_Components_Index.md) | [Domain Controllers](./02_Domain_Controllers.md) | [Domain](./03_Domain.md) | [Forest](./04_Forest.md) | [Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)
 
 ## 🧭 Navigation
 - **[← AD Components Index](./00_AD_Components_Index.md)** - Return to components overview
 - **[→ Domain Controllers](./02_Domain_Controllers.md)** - Next: Core infrastructure
 - **[→ Domain](./03_Domain.md)** - Next: Security boundaries
 - **[→ Forest](./04_Forest.md)** - Next: Top-level container
-- ****→ Domain Enumeration (Coming Soon)**** - Next: Practical techniques
+- **[→ Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)** - Next: Practical techniques
 
 ## 📋 Table of Contents
 - [Overview](#overview)
@@ -336,7 +336,6 @@ graph TD
     style Policy fill:#45b7d1
     style Users fill:#96ceb4
 ```
-```
 
 **🔍 Diagram Explanation: Centralized Management Model**
 
@@ -659,17 +658,16 @@ This attack surface diagram maps the **complete threat landscape** that red team
 - **[AD Components Index](./00_AD_Components_Index.md)**: Detailed overview of all Active Directory components
 - **[Domain](./03_Domain.md)**: In-depth domain concepts and security implications
 - **[Forest](./04_Forest.md)**: Forest architecture and forest-wide operations
-- ****Domain Enumeration (Coming Soon)****: Practical enumeration techniques
-- ****User Enumeration (Coming Soon)****: User account analysis
+- **[Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)**: Practical enumeration techniques
+- **[User Enumeration](../03_Enumeration_Techniques/05_User_Enumeration.md)**: User account analysis
 
 ## 📚 See Also
 - **[AD Components Index](./00_AD_Components_Index.md)** - Return to components overview
 - **[Domain Controllers](./02_Domain_Controllers.md)** - Next: Core infrastructure
 - **[Domain](./03_Domain.md)** - Next: Security boundaries
 - **[Forest](./04_Forest.md)** - Next: Top-level container
-- ****Domain Enumeration (Coming Soon)**** - Next: Practical techniques
+- **[Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)** - Next: Practical techniques
 
 ---
 
-**Tags**: #CRTP #ActiveDirectory #Windows #Networking #DirectoryServices #Components #Architecture #Security #RedTeam
-```
+**Tags**: #ActiveDirectory #Windows #Networking #DirectoryServices #Components #Architecture #Security #RedTeam

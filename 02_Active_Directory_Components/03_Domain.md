@@ -3,7 +3,7 @@
 ## 🎯 Purpose & Definition
 A **domain** is the **core administrative and security boundary** in Active Directory. It contains a **set of objects** (users, groups, computers) and **policies** that apply to them. Each domain has its **own database (`NTDS.dit`)** and can enforce **authentication and authorization rules**.
 
-**Related Topics**: [AD Components Index](./00_AD_Components_Index.md) | [Active Directory](./01_Active_Directory.md) | [Domain Controllers](./02_Domain_Controllers.md) | [Forest](./04_Forest.md) | **Domain Enumeration (Coming Soon)**
+**Related Topics**: [AD Components Index](./00_AD_Components_Index.md) | [Active Directory](./01_Active_Directory.md) | [Domain Controllers](./02_Domain_Controllers.md) | [Forest](./04_Forest.md) | [Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)
 
 ## 🧭 Navigation
 - **[AD Components Index](./00_AD_Components_Index.md)** - Return to components overview

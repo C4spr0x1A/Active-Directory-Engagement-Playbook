@@ -3,7 +3,7 @@
 ## 🎯 Purpose & Definition
 **Domain Controllers (DCs)** are servers that host Active Directory Domain Services (AD DS) and manage domain operations. They are the **core servers** that authenticate users, manage domain policies, and replicate directory information across the network. DCs serve as the authoritative source for all domain operations and are essential for the functioning of any Active Directory environment.
 
-**Related Topics**: [AD Components Index](./00_AD_Components_Index.md) | [Domain](./03_Domain.md) | [Replication Service](./15_Replication_Service.md) | [FSMO Roles](./08_FSMO_Roles.md) | [Sites and Subnets](./06_Sites_and_Subnets.md) | **Domain Enumeration (Coming Soon)**
+**Related Topics**: [AD Components Index](./00_AD_Components_Index.md) | [Domain](./03_Domain.md) | [Replication Service](./15_Replication_Service.md) | [FSMO Roles](./08_FSMO_Roles.md) | [Sites and Subnets](./06_Sites_and_Subnets.md) | [Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)
 
 ## 🧭 Navigation
 - **[AD Components Index](./00_AD_Components_Index.md)** - Return to components overview
@@ -979,7 +979,7 @@ This PowerShell tools diagram illustrates the **PowerShell cmdlets** available f
 - **[Active Directory](./01_Active_Directory.md)** - Previous: Foundation overview
 - **[Domain](./03_Domain.md)** - Next: Security boundaries
 - **[Replication Service](./15_Replication_Service.md)** - Related: Data synchronization
-- ****Domain Enumeration (Coming Soon)**** - Next: Practical techniques
+- **[Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)** - Next: Practical techniques
 
 ---
 

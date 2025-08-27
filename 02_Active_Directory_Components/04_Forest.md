@@ -3,7 +3,7 @@
 ## 🎯 Purpose & Definition
 A **Forest** is the **top-level container** in Active Directory that contains one or more domains. It establishes the **trust and replication framework** across all domains within it. The forest shares a **common schema**, **global catalog**, and **configuration**.
 
-**Related Topics**: [AD Components Index](./00_AD_Components_Index.md) | [Active Directory](./01_Active_Directory.md) | [Domain](./03_Domain.md) | [Schema](./11_Schema.md) | [Global Catalog](./12_Global_Catalog.md) | **Forest Enumeration (Coming Soon)**
+**Related Topics**: [AD Components Index](./00_AD_Components_Index.md) | [Active Directory](./01_Active_Directory.md) | [Domain](./03_Domain.md) | [Schema](./11_Schema.md) | [Global Catalog](./12_Global_Catalog.md) | [Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)
 
 ## 🧭 Navigation
 - **[AD Components Index](./00_AD_Components_Index.md)** - Return to components overview
@@ -741,7 +741,7 @@ This forest design best practices diagram illustrates the **strategic approaches
 - **[Domain](./03_Domain.md)** - Previous: Security boundaries
 - **[Organizational Units](./05_Organizational_Unit.md)** - Next: Organization structure
 - **[Schema](./11_Schema.md)** - Next: Data blueprint
-- ****Forest Enumeration (Coming Soon)**** - Next: Practical techniques
+- **[Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)** - Next: Practical techniques
 
 ---
 
