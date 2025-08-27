@@ -674,3 +674,26 @@ hashcat -m 13100 websvc.hash wordlist.txt --force
 ---
 
 [Prev: 23_Kerberos_Basic_Enumeration.md](./23_Kerberos_Basic_Enumeration.md) | [Up: Index](./00_Enumeration_Index.md) | [Hub](./00_Methodology_Hub.md) | [Next: 25_Kerberos_Delegation_Abuse.md](./25_Kerberos_Delegation_Abuse.md)
+
+---
+
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **🎯 Service Principal Components**
+- **[Kerberos](../02_Active_Directory_Components/16_Kerberos.md)**: SPN authentication and ticket issuance
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: Service accounts with SPNs
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: SPN object attributes and properties
+
+### **🏗️ Infrastructure Components**
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: KDC servers managing SPN authentication
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain boundaries for SPN scope
+- **[Forest](../02_Active_Directory_Components/04_Forest.md)**: Forest-wide SPN resolution
+
+### **🔐 Security and Trust Components**
+- **[Trusts](../02_Active_Directory_Components/07_Trusts.md)**: Cross-domain SPN authentication
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: SPN security policies
+- **[FSMO Roles](../02_Active_Directory_Components/08_FSMO_Roles.md)**: Role-specific SPN configurations
+
+---
+
+## 🚀 **SPN ENUMERATION TECHNIQUES OVERVIEW**

@@ -1,6 +1,27 @@
-[Prev: 21_Time_Based_Enumeration.md](./21_Time_Based_Enumeration.md) | [Up: Index](./00_Enumeration_Index.md) | [Hub](./00_Methodology_Hub.md) | [Next: 23_Kerberos_Basic_Enumeration.md](./23_Kerberos_Basic_Enumeration.md)
+[🔄 Back to Master Index](./00_Enumeration_Index.md) | [⏰ Previous: Time-Based Enumeration](./21_Time_Based_Enumeration.md) | [Next: Kerberos Basic Enumeration](./23_Kerberos_Basic_Enumeration.md)
 
-# 🔐 Kerberos Techniques - Master Index
+---
+
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **🔑 Kerberos Authentication Components**
+- **[Kerberos](../02_Active_Directory_Components/16_Kerberos.md)**: Core authentication protocol and mechanisms
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: KDC servers and authentication services
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: Kerberos principals and authentication
+
+### **🏗️ Infrastructure Components**
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain boundaries for Kerberos realm
+- **[Forest](../02_Active_Directory_Components/04_Forest.md)**: Forest-wide Kerberos trust relationships
+- **[Sites and Subnets](../02_Active_Directory_Components/06_Sites_and_Subnets.md)**: Network topology for KDC access
+
+### **🔐 Security and Trust Components**
+- **[Trusts](../02_Active_Directory_Components/07_Trusts.md)**: Cross-domain Kerberos authentication
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: Kerberos security policies
+- **[FSMO Roles](../02_Active_Directory_Components/08_FSMO_Roles.md)**: PDC emulator for time synchronization
+
+---
+
+## 🚀 **KERBEROS MASTER INDEX OVERVIEW**
 
 > **⚠️ CRITICAL TOOL REQUIREMENT**: **Invisi-Shell** is mandatory for production environments to ensure stealth operations and avoid detection. See [Tool Arsenal](./01_Tool_Setup_Loading.md#-invisi-shell-complete-setup) for setup instructions.
 

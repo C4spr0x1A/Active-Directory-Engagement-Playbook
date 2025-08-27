@@ -29,12 +29,34 @@
 
 ---
 
-## 🔐 KERBEROS FUNDAMENTALS
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **🔑 Kerberos Authentication Components**
+- **[Kerberos](../02_Active_Directory_Components/16_Kerberos.md)**: Core authentication protocol and mechanisms
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: KDC servers and authentication services
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: Kerberos principals and authentication
+
+### **🏗️ Infrastructure Components**
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain boundaries for Kerberos realm
+- **[Forest](../02_Active_Directory_Components/04_Forest.md)**: Forest-wide Kerberos trust relationships
+- **[Sites and Subnets](../02_Active_Directory_Components/06_Sites_and_Subnets.md)**: Network topology for KDC access
+
+### **🔐 Security and Trust Components**
+- **[Trusts](../02_Active_Directory_Components/07_Trusts.md)**: Cross-domain Kerberos authentication
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: Kerberos security policies
+- **[FSMO Roles](../02_Active_Directory_Components/08_FSMO_Roles.md)**: PDC emulator for time synchronization
+
+---
+
+## 🚀 **KERBEROS BASIC ENUMERATION OVERVIEW**
+
+## 🔐 **KERBEROS FUNDAMENTALS**
 
 ### **What is Kerberos?**
 **Kerberos** is the primary authentication protocol used in Active Directory environments. It provides secure, ticket-based authentication for users, computers, and services, enabling single sign-on (SSO) capabilities and secure communication across the domain.
 
 ### **Kerberos Architecture Overview**
+
 ```mermaid
 graph TB
     subgraph "🔐 Kerberos Authentication Ecosystem"
@@ -620,5 +642,3 @@ klist purge
 ---
 
 [Prev: 22_Kerberos_Master_Index.md](./22_Kerberos_Master_Index.md) | [Up: Index](./00_Enumeration_Index.md) | [Hub](./00_Methodology_Hub.md) | [Next: 24_SPN_Enumeration_Techniques.md](./24_SPN_Enumeration_Techniques.md)
-
-```
