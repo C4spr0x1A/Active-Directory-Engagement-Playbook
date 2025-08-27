@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "26afd48054b4a4d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eb43d764086e7c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f56a7938f92d3615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Enumeration_Techniques/04_Domain_Enumeration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04_Domain_Enumeration"
+            }
+          },
+          {
+            "id": "73c9df695adf2c65",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32ad430e0effbcdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "99e8d1bf329531fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64e61bab2ea7fd52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0bc480686abcc001",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1c9197524c1490c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "380c3b5b96300cb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "75857e1684450f41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b05f22ab9ac10313",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sites and Subnets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sites and Subnets"
+            }
+          },
+          {
+            "id": "b638034f264e6d83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sites and Subnets.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sites and Subnets"
+            }
+          },
+          {
+            "id": "d2e5ab5c130acb5d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b2a21576214bd454",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sites and Subnets.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sites and Subnets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f56a7938f92d3615",
+  "lastOpenFiles": [
+    "03_Enumeration_Techniques/05_User_Enumeration.md",
+    "00_MASTER_INDEX.md",
+    "scripts/markdown_cleanup.py",
+    "03_Enumeration_Techniques/sedCy5AFr",
+    "03_Enumeration_Techniques/sedBzGsbd",
+    "03_Enumeration_Techniques/sedNOtSSS",
+    "scripts/convert_wikilinks_to_markdown.py",
+    "scripts",
+    "03_Enumeration_Techniques/16_Session_Analysis_Techniques.md",
+    "03_Enumeration_Techniques/12_Session_Enumeration_Index.md",
+    "03_Enumeration_Techniques/01_Tool_Setup_Loading.md",
+    "03_Enumeration_Techniques/02_Network_Enumeration.md",
+    "03_Enumeration_Techniques/00_Methodology_Hub.md",
+    "03_Enumeration_Techniques/33_Detection_Red_Team.md",
+    "03_Enumeration_Techniques/Cross_Reference_System_Validation_Plan.md",
+    "03_Enumeration_Techniques/29_LDAP_Injection.md",
+    "03_Enumeration_Techniques/30_Forest_Enumeration.md",
+    "03_Enumeration_Techniques/31_Detection_Index.md",
+    "11_Detection_Blue_Team.md",
+    "03_Enumeration_Techniques/32_Detection_Blue_Team.md",
+    "03_Enumeration_Techniques/09_ACL_Enumeration.md",
+    "03_Enumeration_Techniques/06_Group_Enumeration.md",
+    "03_Enumeration_Techniques/07_Computer_Enumeration.md",
+    "03_Enumeration_Techniques/08_GPO_Enumeration.md",
+    "03_Enumeration_Techniques/10_BloodHound_Enumeration.md",
+    "03_Enumeration_Techniques/04_Domain_Enumeration.md",
+    "03_Enumeration_Techniques/03_DNS_Enumeration.md",
+    "03_Enumeration_Techniques/18_Registry_Enumeration.md",
+    "03_Enumeration_Techniques/00_Enumeration_Index.md",
+    "03_Enumeration_Techniques/Remediation_Plan.md",
+    "03_Enumeration_Techniques/25_Kerberos_Delegation_Abuse.md",
+    "03_Enumeration_Techniques/sedskizfD",
+    "03_Enumeration_Techniques/sedRYMMEE",
+    "03_Enumeration_Techniques/sed9R9yB8",
+    "03_Enumeration_Techniques/sedpxTYN8",
+    "03_Enumeration_Techniques/PHASE_12_COMPLETION_SUMMARY.md",
+    "CRTP-Notes/0-Main/assets/disable-firewall.png"
+  ]
+}
