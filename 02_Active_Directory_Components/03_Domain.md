@@ -588,7 +588,7 @@ This security model diagram illustrates the **multi-layered security approach** 
 - **[Domain Controllers](./02_Domain_Controllers.md)** - Previous: Core infrastructure
 - **[Forest](./04_Forest.md)** - Next: Top-level container
 - **[Organizational Units](./05_Organizational_Unit.md)** - Next: Organization structure
-- ****Domain Enumeration (Coming Soon)**** - Next: Practical techniques
+- **[Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)** - Next: Practical techniques
 
 ---
 

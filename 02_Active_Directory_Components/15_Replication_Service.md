@@ -3,7 +3,7 @@
 ## 🎯 Purpose & Definition
 Distributes information across Domain Controllers. Active Directory is **multi-master**: Every DC holds a writable copy of `NTDS.dit`. Changes on one DC replicate to all other DCs. Managed by the **Knowledge Consistency Checker (KCC)** and the Replication Service, ensuring data consistency and availability across the entire directory infrastructure.
 
-**Related Objects**: [AD Components Index](./00_AD_Components_Index.md) | [Domain Controllers](./02_Domain_Controllers.md) | [Sites and Subnets](./06_Sites_and_Subnets.md) | [FSMO Roles](./08_FSMO_Roles.md) | [Active Directory Partitions](./10_Active_Directory_Partitions.md) | **Replication Enumeration (Coming Soon)**
+**Related Topics**: [AD Components Index](./00_AD_Components_Index.md) | [Domain Controllers](./02_Domain_Controllers.md) | [Sites and Subnets](./06_Sites_and_Subnets.md) | [Active Directory Partitions](./10_Active_Directory_Partitions.md) | [Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)
 
 ## 🧭 Navigation
 - **[AD Components Index](./00_AD_Components_Index.md)** - Return to components overview
@@ -1460,7 +1460,7 @@ graph LR
 - **[Query and Index Mechanism](./14_Query_and_Index_Mechanism.md)** - Previous: Search engine & indexing
 - **[Kerberos](./16_Kerberos.md)** - Next: Authentication protocol
 - **[Domain Controllers](./02_Domain_Controllers.md)** - Related: Replication participants
-- ****Replication Enumeration (Coming Soon)**** - Next: Practical techniques
+- **[Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)** - Next: Practical techniques
 
 ---
 

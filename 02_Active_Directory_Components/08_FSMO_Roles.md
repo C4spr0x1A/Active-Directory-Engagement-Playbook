@@ -3,7 +3,7 @@
 ## 🎯 Purpose & Definition
 FSMO roles are **specialized tasks** that can only be handled by **one Domain Controller (DC) at a time** in the domain or forest. They prevent conflicts in a **multi-master replication environment**.
 
-**Related Topics**: [AD Components Index](./00_AD_Components_Index.md) | [Domain Controllers](./02_Domain_Controllers.md) | [Domain](./03_Domain.md) | [Forest](./04_Forest.md) | **FSMO Enumeration (Coming Soon)**
+**Related Topics**: [AD Components Index](./00_AD_Components_Index.md) | [Domain Controllers](./02_Domain_Controllers.md) | [Domain](./03_Domain.md) | [Forest](./04_Forest.md) | [Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)
 
 ## 🧭 Navigation
 - **[AD Components Index](./00_AD_Components_Index.md)** - Return to components overview
@@ -737,7 +737,7 @@ This diagram categorizes essential **FSMO Management Tools**:
 - **[Trusts](./07_Trusts.md)** - Previous: Cross-domain relationships
 - **[Group Policy Objects](./09_Group_Policy_Objects.md)** - Next: Policy management
 - **[Schema](./11_Schema.md)** - Next: Data structure definition
-- ****FSMO Enumeration (Coming Soon)**** - Next: Practical techniques
+- **[Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)** - Next: Practical techniques
 
 ---
 

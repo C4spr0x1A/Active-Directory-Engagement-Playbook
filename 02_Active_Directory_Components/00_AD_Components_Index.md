@@ -692,7 +692,7 @@ This comprehensive visual map provides the **complete architectural overview** o
 - **[Active Directory Overview](../01_Foundation/Active%20Directory.md)**: Main overview and navigation hub
 - **[Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)**: Practical enumeration techniques
 - **[Tool Setup and Loading](../03_Enumeration_Techniques/01_Tool_Setup_Loading.md)**: Security controls and bypass techniques
-- **[Lab Practice Overview (Coming Soon)**: Hands-on exercises and scenarios
+- **[Lab Practice Overview](../03_Enumeration_Techniques/00_Enumeration_Index.md)**: Hands-on exercises and scenarios
 
 ## 🧭 Navigation
 - **[Active Directory Overview](../01_Foundation/Active%20Directory.md)** - Return to main overview

@@ -647,7 +647,7 @@ This diagram outlines the **various tools used for managing Active Directory par
 - **[Forest](./04_Forest.md)**: Forest-wide partitions (schema, configuration)
 - **[Sites and Subnets](./06_Sites_and_Subnets.md)**: Configuration partition contains site information
 - **[Global Catalog](./12_Global_Catalog.md)**: Partial replica of all partitions
-- ****Partition Enumeration (Coming Soon)****: Practical techniques
+- **[Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)** - Next: Practical techniques
 
 ---
 

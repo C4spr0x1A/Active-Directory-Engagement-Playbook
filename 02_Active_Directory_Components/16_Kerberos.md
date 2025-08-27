@@ -3,7 +3,7 @@
 ## 🎯 Purpose & Definition
 Kerberos is the primary authentication protocol used in Active Directory environments. It provides secure, ticket-based authentication for users, computers, and services, enabling single sign-on (SSO) capabilities and secure communication across the domain. Kerberos uses a trusted third-party authentication model to verify identities and issue session tickets for resource access.
 
-**Related Objects**: [AD Components Index](./00_AD_Components_Index.md) | [Replication Service](./15_Replication_Service.md) | [Domain Controllers](./02_Domain_Controllers.md) | [Trusts](./07_Trusts.md) | **Kerberos Enumeration (Coming Soon)**
+**Related Topics**: [AD Components Index](./00_AD_Components_Index.md) | [Domain Controllers](./02_Domain_Controllers.md) | [Trusts](./07_Trusts.md) | [Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)
 
 ## 🧭 Navigation
 - **[AD Components Index](./00_AD_Components_Index.md)** - Return to components overview
@@ -354,15 +354,15 @@ graph TD
 - **[Domain Controllers](./02_Domain_Controllers.md)**: Host Kerberos services
 - **[Trusts](./07_Trusts.md)**: Enable cross-domain Kerberos authentication
 - **[User Accounts](./17_User_Accounts.md)**: Kerberos authentication principals
-- ****Computer Objects (Coming Soon)****: Machine authentication
-- ****Group Objects (Coming Soon)****: Access control groups
+- **[Computer Objects](./17_User_Accounts.md)**: Machine authentication
+- **[Group Objects](./17_User_Accounts.md)**: Access control groups
 
 ## 🔗 Related Objects
 - **[AD Components Index](./00_AD_Components_Index.md)** - Return to components overview
 - **[Replication Service](./15_Replication_Service.md)** - Previous: Data synchronization
 - **[User Accounts](./17_User_Accounts.md)** - Next: User management
 - **[Domain Controllers](./02_Domain_Controllers.md)** - Related: Authentication servers
-- ****Kerberos Enumeration (Coming Soon)**** - Next: Practical techniques
+- **[Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)** - Next: Practical techniques
 
 ---
 

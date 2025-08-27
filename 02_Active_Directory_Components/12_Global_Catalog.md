@@ -653,7 +653,7 @@ This diagram illustrates the **diverse set of tools used to manage and monitor t
 - **[Schema](./11_Schema.md)** - Previous: Data structure definition
 - **[LDAP and Ports](./13_LDAP_and_Ports.md)** - Next: Communication protocols
 - **[Query and Index Mechanism](./14_Query_and_Index_Mechanism.md)** - Next: Search capabilities
-- ****Global Catalog Enumeration (Coming Soon)**** - Next: Practical techniques
+- **[Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)** - Next: Practical techniques
 
 ---
 

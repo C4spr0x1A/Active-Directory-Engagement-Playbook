@@ -3,13 +3,13 @@
 ## 🎯 Purpose & Definition
 User Accounts are the fundamental identity objects in Active Directory that represent individual users within the domain. They store authentication credentials, personal information, group memberships, and access control settings. User accounts enable single sign-on (SSO), centralized authentication, and granular access control across the entire Active Directory infrastructure.
 
-**Related Objects**: [AD Components Index](./00_AD_Components_Index.md) | [Kerberos](./16_Kerberos.md) | **Computer Objects (Coming Soon)** | **Group Objects (Coming Soon)** | **User Enumeration (Coming Soon)**
+**Related Objects**: [AD Components Index](./00_AD_Components_Index.md) | [Kerberos](./16_Kerberos.md) | [Computer Objects](./17_User_Accounts.md) | [Group Objects](./17_User_Accounts.md) | [Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)
 
 ## 🧭 Navigation
 - **[AD Components Index](./00_AD_Components_Index.md)** - Return to components overview
 - **[Kerberos](./16_Kerberos.md)** - Previous: Authentication protocol
-- ****→ Computer Objects (Coming Soon)**** - Next: Machine management
-- ****→ Group Objects (Coming Soon)**** - Related: Access control groups
+- **[→ Computer Objects](./17_User_Accounts.md)** - Next: Machine management
+- **[→ Group Objects](./17_User_Accounts.md)** - Related: Access control groups
 
 ## 📋 Table of Contents
 - [Purpose & Definition](#purpose-&-definition)
@@ -915,18 +915,18 @@ graph LR
 
 ## 🔗 Related Components
 - **[Kerberos](./16_Kerberos.md)**: User authentication protocol
-- ****Computer Objects (Coming Soon)****: Machine accounts and authentication
-- ****Group Objects (Coming Soon)****: Access control and permissions
-- ****ACL Objects (Coming Soon)****: Permission management
+- **[Computer Objects](./17_User_Accounts.md)**: Machine accounts and authentication
+- **[Group Objects](./17_User_Accounts.md)**: Access control and permissions
+- **[ACL Objects](./09_ACL_Enumeration.md)**: Permission management
 - **[Replication Service](./15_Replication_Service.md)**: Account synchronization
 - **[Domain Controllers](./02_Domain_Controllers.md)**: Account storage and management
 
 ## 🔗 Related Objects
 - **[AD Components Index](./00_AD_Components_Index.md)** - Return to components overview
 - **[Kerberos](./16_Kerberos.md)** - Previous: Authentication protocol
-- ****Computer Objects (Coming Soon)**** - Next: Machine management
-- ****Group Objects (Coming Soon)**** - Related: Access control groups
-- ****User Enumeration (Coming Soon)**** - Next: Practical techniques
+- **[Computer Objects](./17_User_Accounts.md)** - Next: Machine management
+- **[Group Objects](./17_User_Accounts.md)** - Related: Access control groups
+- **[Enumeration Techniques](../03_Enumeration_Techniques/00_Enumeration_Index.md)** - Next: Practical techniques
 
 ---
 
