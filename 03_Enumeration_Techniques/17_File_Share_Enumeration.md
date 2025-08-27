@@ -98,8 +98,28 @@ This comprehensive workflow demonstrates the systematic approach to **file share
 7. **Data Hunting**: Search for sensitive data and classify information
 8. **Access Control Review**: Map permissions and identify access paths
 9. **Attack Planning**: Plan data exfiltration and attack vectors
+10. **OPSEC Cleanup**: Remove all traces and return to clean state
 
-**Note:** For basic domain information and trust relationships, see [Domain Enumeration](./04_Domain_Enumeration.md).
+---
+
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **📁 File Share Components**
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: File share access permissions and ownership
+- **[Organizational Units](../02_Active_Directory_Components/05_Organizational_Unit.md)**: OU structure containing file share objects
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: File share object attributes and properties
+
+### **🏗️ Infrastructure Components**
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: Servers hosting file share information
+- **[Sites and Subnets](../02_Active_Directory_Components/06_Sites_and_Subnets.md)**: Network topology for file share access
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain boundaries for file share scope
+
+### **🔐 Security and Access Components**
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: File share security policies
+- **[Trusts](../02_Active_Directory_Components/07_Trusts.md)**: Cross-domain file share access
+- **[Replication Service](../02_Active_Directory_Components/15_Replication_Service.md)**: File share replication and synchronization
+
+---
 
 ## Navigation
 - [Enumeration Index](./00_Enumeration_Index.md)

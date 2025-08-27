@@ -6,9 +6,30 @@
 
 > **🎯 PURPOSE**: This is your **active session discovery foundation** for Active Directory enumeration. Active session discovery reveals real-time user activity, login states, and connection patterns across domain computers, providing critical intelligence for lateral movement, privilege escalation, and attack path planning.
 
-[🔄 Back to Master Index](./00_Enumeration_Index.md) | [🔍 Previous: Session Enumeration Index](./12_Session_Enumeration_Index.md) | [Next: RDP Session Enumeration](./14_RDP_Session_Enumeration.md)
+[🔄 Back to Master Index](./00_Enumeration_Index.md) | [👤 Previous: Session Enumeration Index](./12_Session_Enumeration_Index.md) | [Next: RDP Session Enumeration](./14_RDP_Session_Enumeration.md)
 
 ---
+
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **👤 Session Management Components**
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: Active user sessions and authentication states
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: Servers managing active sessions
+- **[Kerberos](../02_Active_Directory_Components/16_Kerberos.md)**: Active session tickets and authentication
+
+### **🏗️ Infrastructure Components**
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain boundaries for active session scope
+- **[Sites and Subnets](../02_Active_Directory_Components/06_Sites_and_Subnets.md)**: Network topology for session routing
+- **[Replication Service](../02_Active_Directory_Components/15_Replication_Service.md)**: Session state synchronization
+
+### **🔐 Security and Policy Components**
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: Session policies and restrictions
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: Session object attributes and properties
+- **[FSMO Roles](../02_Active_Directory_Components/08_FSMO_Roles.md)**: Session management operations
+
+---
+
+## 🚀 **ACTIVE SESSION DISCOVERY OVERVIEW**
 
 ## 📋 **QUICK START ACTIVE SESSION DISCOVERY**
 

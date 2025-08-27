@@ -10,6 +10,27 @@
 
 ---
 
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **🖥️ Terminal Service Components**
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: Terminal service users and authentication
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: Servers managing terminal service authentication
+- **[Kerberos](../02_Active_Directory_Components/16_Kerberos.md)**: Terminal service tickets and authentication
+
+### **🏗️ Infrastructure Components**
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain boundaries for terminal service access
+- **[Sites and Subnets](../02_Active_Directory_Components/06_Sites_and_Subnets.md)**: Network topology for terminal service routing
+- **[Replication Service](../02_Active_Directory_Components/15_Replication_Service.md)**: Terminal service state synchronization
+
+### **🔐 Security and Policy Components**
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: Terminal service policies and restrictions
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: Terminal service object attributes
+- **[FSMO Roles](../02_Active_Directory_Components/08_FSMO_Roles.md)**: Terminal service management operations
+
+---
+
+## 🚀 **TERMINAL SERVICES ENUMERATION OVERVIEW**
+
 ## 📋 **QUICK START TERMINAL SERVICES DISCOVERY**
 
 | **Phase** | **Tool** | **Command** | **Purpose** | **OPSEC Level** |

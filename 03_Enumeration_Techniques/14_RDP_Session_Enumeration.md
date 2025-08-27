@@ -10,6 +10,27 @@
 
 ---
 
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **🖥️ Remote Access Components**
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: RDP users and authentication states
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: Servers managing RDP authentication
+- **[Kerberos](../02_Active_Directory_Components/16_Kerberos.md)**: RDP session tickets and authentication
+
+### **🏗️ Infrastructure Components**
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain boundaries for RDP access
+- **[Sites and Subnets](../02_Active_Directory_Components/06_Sites_and_Subnets.md)**: Network topology for RDP routing
+- **[Replication Service](../02_Active_Directory_Components/15_Replication_Service.md)**: RDP session state synchronization
+
+### **🔐 Security and Policy Components**
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: RDP policies and restrictions
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: RDP session object attributes
+- **[FSMO Roles](../02_Active_Directory_Components/08_FSMO_Roles.md)**: RDP management operations
+
+---
+
+## 🚀 **RDP SESSION ENUMERATION OVERVIEW**
+
 ## 📋 **QUICK START RDP SESSION DISCOVERY**
 
 | **Phase** | **Tool** | **Command** | **Purpose** | **OPSEC Level** |

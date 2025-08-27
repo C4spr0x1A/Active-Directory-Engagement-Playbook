@@ -6,9 +6,30 @@
 
 > **🎯 PURPOSE**: This is your **session analysis foundation** for Active Directory enumeration. Session analysis techniques reveal user behavior patterns, system usage anomalies, and suspicious activity through comprehensive data analysis, providing critical intelligence for threat hunting, attack path planning, and privilege escalation.
 
-[🔄 Back to Master Index](./00_Enumeration_Index.md) | [🔍 Previous: Terminal Services Enumeration](./15_Terminal_Services_Enumeration.md) | [Next: File Share Enumeration](./17_File_Share_Enumeration.md)
+[🔄 Back to Master Index](./00_Enumeration_Index.md) | [⚡ Previous: Terminal Services Enumeration](./15_Terminal_Services_Enumeration.md) | [Next: File Share Enumeration](./17_File_Share_Enumeration.md)
 
 ---
+
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **📊 Session Analysis Components**
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: Session patterns and user behavior analysis
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: Session data collection and analysis
+- **[Kerberos](../02_Active_Directory_Components/16_Kerberos.md)**: Session ticket analysis and patterns
+
+### **🏗️ Infrastructure Components**
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain boundaries for session analysis scope
+- **[Sites and Subnets](../02_Active_Directory_Components/06_Sites_and_Subnets.md)**: Network topology for session routing analysis
+- **[Replication Service](../02_Active_Directory_Components/15_Replication_Service.md)**: Session state synchronization analysis
+
+### **🔐 Security and Policy Components**
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: Session policies and behavior analysis
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: Session object attribute analysis
+- **[FSMO Roles](../02_Active_Directory_Components/08_FSMO_Roles.md)**: Session management operation analysis
+
+---
+
+## 🚀 **SESSION ANALYSIS TECHNIQUES OVERVIEW**
 
 ## 📋 **QUICK START SESSION ANALYSIS DISCOVERY**
 

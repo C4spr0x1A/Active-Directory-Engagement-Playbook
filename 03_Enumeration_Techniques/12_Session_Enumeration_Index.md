@@ -6,9 +6,30 @@
 
 > **🎯 PURPOSE**: This is your **session enumeration foundation** for Active Directory discovery. Session enumeration reveals active user sessions, RDP connections, SMB sessions, and terminal services across the domain, providing critical intelligence for lateral movement, privilege escalation, and attack path planning.
 
-[🔄 Back to Master Index](./00_Enumeration_Index.md) | [🔍 Previous: SOAPHound Enumeration](./11_SOAPHound_Enumeration.md) | [Next: Active Session Discovery](./13_Active_Session_Discovery.md)
+[🔄 Back to Master Index](./00_Enumeration_Index.md) | [🧼 Previous: SOAPHound Enumeration](./11_SOAPHound_Enumeration.md) | [Next: Active Session Discovery](./13_Active_Session_Discovery.md)
 
 ---
+
+## 🔗 **RELATED ACTIVE DIRECTORY COMPONENTS**
+
+### **👤 Session Management Components**
+- **[User Accounts](../02_Active_Directory_Components/17_User_Accounts.md)**: User sessions and authentication states
+- **[Domain Controllers](../02_Active_Directory_Components/02_Domain_Controllers.md)**: Servers managing user sessions
+- **[Kerberos](../02_Active_Directory_Components/16_Kerberos.md)**: Session tickets and authentication
+
+### **🏗️ Infrastructure Components**
+- **[Domain](../02_Active_Directory_Components/03_Domain.md)**: Domain boundaries for session scope
+- **[Sites and Subnets](../02_Active_Directory_Components/06_Sites_and_Subnets.md)**: Network topology for session routing
+- **[Replication Service](../02_Active_Directory_Components/15_Replication_Service.md)**: Session state synchronization
+
+### **🔐 Security and Policy Components**
+- **[Group Policy Objects](../02_Active_Directory_Components/09_Group_Policy_Objects.md)**: Session policies and restrictions
+- **[Schema](../02_Active_Directory_Components/11_Schema.md)**: Session object attributes and properties
+- **[FSMO Roles](../02_Active_Directory_Components/08_FSMO_Roles.md)**: Session management operations
+
+---
+
+## 🚀 **SESSION ENUMERATION OVERVIEW**
 
 ## 📋 **QUICK START SESSION DISCOVERY**
 
